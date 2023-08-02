@@ -1,0 +1,2 @@
+#!/bin/bash
+kmdir -m 6 /tmp/my_first_directory/
